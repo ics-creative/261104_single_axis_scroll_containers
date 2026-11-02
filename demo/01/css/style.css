@@ -186,13 +186,14 @@ main {
     .control {
       flex-direction: column;
       .toggle {
-        border-radius: 12px;
+        border-radius: 4px;
         .toggle-inner {
           flex-direction: column;
+          padding: 8px;
         }
 
         &:after {
-          border-radius: 12px;
+          border-radius: 4px;
         }
       }
     }
