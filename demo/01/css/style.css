@@ -183,10 +183,17 @@ main {
 
 @media (width < 768px) {
   main {
-    .toggle {
-      border-radius: 20px;
-      .toggle-inner {
-        flex-direction: column;
+    .control {
+      flex-direction: column;
+      .toggle {
+        border-radius: 12px;
+        .toggle-inner {
+          flex-direction: column;
+        }
+
+        &:after {
+          border-radius: 12px;
+        }
       }
     }
 
