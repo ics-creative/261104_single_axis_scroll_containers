@@ -4,7 +4,7 @@ ICS MEDIAの記事「CSSだけで横スクロールと見出し固定を両立�
 
 - [プロジェクト工程表](demo/01/index.html)
 - [ヨーロッパの国別比較表](demo/02/index.html)
-- [プロジェクト工程表（高さを指定したスクロール枠）](demo/old/index.html)
+- [プロジェクト工程表（高さを指定したスクロール枠）](demo/previous/index.html)
 
 ## 画像の出典
 
